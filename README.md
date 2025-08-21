@@ -1,2 +1,1 @@
-# Design-and-simulation-of-a-Digital-Clock-using-Verilog
-Verilog
+Digital_Clock with Stopwatch and Alarm implimentation using verilog
