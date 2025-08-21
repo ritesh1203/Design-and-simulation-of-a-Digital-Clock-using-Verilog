@@ -1,4 +1,4 @@
-                                                      Digital_Clock with Stopwatch and Alarm implimentation using verilog
+                                    Digital_Clock with Stopwatch and Alarm implimentation using verilog
 
 
 
